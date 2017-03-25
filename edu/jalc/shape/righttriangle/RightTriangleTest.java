@@ -1,4 +1,4 @@
-package edu.jalc.shape;
+package edu.jalc.shape.righttriangle;
 
 import java.lang.*;
 

@@ -1,4 +1,4 @@
-package edu.jalc.shape;
+package edu.jalc.shape.twodimensionalshape;
 
 public abstract class TwoDimensionalShape{
 

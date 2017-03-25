@@ -1,4 +1,4 @@
-package edu.jalc.shape;
+package edu.jalc.shape.rectangle;
 
 public class Square extends Rectangle{
 

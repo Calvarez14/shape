@@ -1,6 +1,7 @@
-package edu.jalc.shape;
+package edu.jalc.shape.rectangle;
 
 import edu.jalc.shape.twodimensionalshape.TwoDimensionalShape;
+import edu.jalc.shape.ellipse.Circle;
 
 public class Rectangle extends TwoDimensionalShape{
 

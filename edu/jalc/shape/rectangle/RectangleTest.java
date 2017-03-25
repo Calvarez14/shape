@@ -1,6 +1,7 @@
-package edu.jalc.shape;
+package edu.jalc.shape.rectangle;
 
 import java.lang.*;
+import edu.jalc.shape.ellipse.Circle;
 
 public class RectangleTest{
 

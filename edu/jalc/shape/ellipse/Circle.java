@@ -1,4 +1,4 @@
-package edu.jalc.shape;
+package edu.jalc.shape.ellipse;
 
 import java.lang.*;
 
